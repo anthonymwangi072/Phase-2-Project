@@ -61,6 +61,12 @@
       "email_address": "anto254@xyz.com",
       "password": "123456",
       "id": "P1Ao88K"
+    },
+    {
+      "name": "Anthony Mwangi",
+      "email_address": "anto254@xyz.com",
+      "password": "1234567",
+      "id": "04F_fMP"
     }
   ],
   "responses": [
@@ -77,6 +83,27 @@
       "phonenumber": "0710701716",
       "content": "Front end development",
       "id": 2
+    },
+    {
+      "name": "Anthony Mwangi",
+      "email_address": "anthonymwangi072@gmail.com",
+      "phonenumber": "0710701716",
+      "content": "Interested in the front end package",
+      "id": 3
+    },
+    {
+      "name": "Anthony Mwaniki",
+      "email_address": "anthonymwangi072@gmail.com",
+      "phonenumber": "0710701716",
+      "content": "Interested in the front end package",
+      "id": 4
+    },
+    {
+      "name": "Anthony Mwangi",
+      "email_address": "mwas.anto7@gmail.com",
+      "phonenumber": "0710701716",
+      "content": "im interested in front end web development services",
+      "id": 5
     }
   ]
 }
