@@ -1,0 +1,21 @@
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: purple;
+    width: 100%;
+    padding: .5em;
+}
+.line {
+    width: 30%;
+}
+hr{
+    margin-bottom: .5em;
+}
+.icon{
+    margin-right: 1em;
+}
+.copyright p{
+    text-align: center;
+    color:#fff;
+    margin-bottom: .5em;
+}

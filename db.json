@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "id": "anto254@xyz.com",
+      "name": "Anthony Mwangi",
+      "email_address": "anto254@xyz.com",
+      "password": "123456"
+    },
+    {
+      "id": "adams254@xyz.com",
+      "name": "Adams Okode",
+      "email_address": "adams254@xyz.com",
+      "password": "qwertyuiop"
+    },
+    {
+      "id": "-B2DjZl"
+    },
+    {
+      "id": "c6KITTr"
+    },
+    {
+      "name": "anto254@xyz.com",
+      "id": "uxQfzio"
+    },
+    {
+      "name": "asdfads@fdsag.csac",
+      "id": "HwjT5-s"
+    },
+    {
+      "name": "fd",
+      "email_address": "asdfads@fdsag.csac",
+      "password": "fawfas",
+      "id": "DOxh3dS"
+    },
+    {
+      "name": "Anthony Mwangi",
+      "email_address": "mwas.anto7@gmail.com",
+      "password": "Bird7man",
+      "id": "mwas.anto7@gmail.com"
+    },
+    {
+      "name": "Anthony Mwangi",
+      "email_address": "anto254@xyz.com",
+      "password": "123456",
+      "id": "DUgJXG7"
+    },
+    {
+      "name": "Anthony Mwaniki",
+      "email_address": "anto254@xyz.com",
+      "password": "123456",
+      "id": "2yMkJoq"
+    },
+    {
+      "name": "Anthony Mwangi",
+      "email_address": "anto254@xyz.com",
+      "password": "1234567",
+      "id": "9PiEFpl"
+    },
+    {
+      "name": "Anthony Mwangi",
+      "email_address": "anto254@xyz.com",
+      "password": "123456",
+      "id": "P1Ao88K"
+    }
+  ],
+  "responses": [
+    {
+      "name": "Anthony Mwangi",
+      "email_address": "anthony.mwaniki@student.moringaschool.com",
+      "phonenumber": "0710701716",
+      "content": "Front end development",
+      "id": 1
+    },
+    {
+      "name": "Anthony Mwangi",
+      "email_address": "anthony.mwaniki@student.moringaschool.com",
+      "phonenumber": "0710701716",
+      "content": "Front end development",
+      "id": 2
+    }
+  ]
+}

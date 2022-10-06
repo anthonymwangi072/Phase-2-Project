@@ -1,0 +1,14 @@
+.services{
+    width: 100%;
+    background-color: yellow;
+    margin-top: 1em, 0;
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    text-align: center;
+}
+.card{
+    width: 25%;
+    text-align: center;
+}
