@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Live link on Vercel(https://phase-2-project-3ntk-i20z8bkf8-anthonymwangi072.vercel.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
